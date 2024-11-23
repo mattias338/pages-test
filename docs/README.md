@@ -24,5 +24,7 @@ Hello
 Find some great docs [here][docs]
 
 
-[Docs page](docs/docs-main.md)
-[Docs page](docs/docs-main)
+[Docs page](docs-main.md)
+[Docs page](docs-main)
+
+1
