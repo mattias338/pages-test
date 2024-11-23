@@ -2,6 +2,7 @@
 For testing github pages
 
 [Link to another page](another-page.md)
+[Link to another page][another-page.m]
 
 
 1. HTML
@@ -21,3 +22,7 @@ Hello
 [Like it so far? Follow me on GitHub](https://github.com/im-luka)
 [My Markdown Cheatsheet - star it if you like it](markdown-cheatsheet)
 Find some great docs [here][docs]
+
+
+[Docs page](docs/docs-main.md)
+[Docs page](docs/docs-main)
