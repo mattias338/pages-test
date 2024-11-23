@@ -1,6 +1,5 @@
 ---
 title: Another page
-layout: template
 filename: another-page.md
 ---
 
