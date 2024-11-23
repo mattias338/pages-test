@@ -1,8 +1,10 @@
 # pages-test
 For testing github pages
 
-[Link to another page](another-page.md)
-[Link to another page][another-page.m]
+[Link to another page with header](another-page-with-header.md)
+[Link to another page with header](another-page-without-header.md)
+
+[Link to another page with header][another-page-without-header.md]
 
 
 1. HTML
