@@ -1,5 +1,6 @@
 ---
-title: Lindhaga samfällighetsförening 
+title: Lindhaga samfllighetsfrening 
+filename: README.md
 ---
 
 # Välkommen till Lindhaga Samfällighetsförening
@@ -18,6 +19,8 @@ Syftet med föreningen är...
 - AA
 - BB
 
+# Föreningens stadgar
+[Här](https://lindhaga1974.se/wp-content/uploads/2024/05/stadgar-rev-4.pdf) kan du läsa föreningens stadgar.
 
 
 
