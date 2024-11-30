@@ -14,6 +14,9 @@ Syftet med föreningen är...
 - AA
 - BB
 
+# Ritningar
+Ritningar för vattenledningar och hus finns här!
+
 # Föreningens stadgar
 [Här](https://lindhaga1974.se/wp-content/uploads/2024/05/stadgar-rev-4.pdf) kan du läsa föreningens stadgar.
 
