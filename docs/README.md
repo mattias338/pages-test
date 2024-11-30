@@ -1,4 +1,22 @@
-# pages-test
+# Välkommen till Lindhaga Samfällighetsförening
+Lindhaga Samfällighetsförening förvaltar de gemensamma anläggningarna i grupphusområdet beläget mellan Rågkornsgatan och Axgatan i Mölndal. Området byggdes 1973 – 1974 och består av totalt 174 fastigheter, fördelade på radhus och grändhus.
+
+# Nyinflyttad?
+Om du är nyinflyttad så läs gärna igenom X och kontakta styrelsen med e-post.
+
+# Föreningens syfte
+Syftet med föreningen är...
+
+# Ladda bilen
+
+# Styrelsen sedan stämman 2024
+- MH
+- AA
+- BB
+
+
+
+
 For testing github pages
 
 [Link to another page with header](another-page-with-header.md)
